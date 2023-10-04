@@ -1,4 +1,4 @@
 # image-search-app
 - image-search-app uses axios package to get data from APIs and also use async and await method.
-(https://github.com/Arpit9945/image-search-app/assets/134361516/0630329f-6f48-49a1-a118-383cbe1911e8)
-(https://github.com/Arpit9945/image-search-app/assets/134361516/9ddf4619-b21e-4b77-90b5-b8bde56764fe)
+![img search img 1](https://github.com/Arpit9945/image-search-app/assets/134361516/d8fb4081-caec-4348-9a00-26e12f3a947c)
+![img search img 2](https://github.com/Arpit9945/image-search-app/assets/134361516/ead59f78-8e05-4a90-ac4e-92dac3994615)
